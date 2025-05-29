@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+My name is Tai Qi Zheng. I am a computer science student.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
