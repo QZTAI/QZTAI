@@ -7,11 +7,10 @@ My name is Tai Qi Zheng. I am a computer science student.
   <img src="Icon/python-original-wordmark.svg" width="45" height="45"/>
   <img src="Icon/pytorch-original.svg" width="45" height="45"/>
   <img src="Icon/tensorflow-original.svg" width="45" height="45"/>
-  <img src="Icon/anaconda-original-wordmark.svg" width="45" height="45"/>
-  <img src="Icon/c-original.svg" width="45" height="45"/>
   <img src="Icon/css3-original-wordmark.svg" width="45" height="45"/>
-  <img src="Icon/docker-plain-wordmark.svg" width="45" height="45"/>
   <img src="Icon/html5-original-wordmark.svg" width="45" height="45"/>
+  <img src="Icon/docker-plain-wordmark.svg" width="45" height="45"/>
+  <img src="Icon/c-original.svg" width="45" height="45"/>
   <!--<img src="" width="45" height="45"/>-->
 </p>
 
