@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Tai Qi Zheng. I am a computer science student. This is my [Potfolio](https://qztai.github.io/Potfolio/) [test](https://gdp-dashboard-cni2m66qjfe.streamlit.app/)
+My name is Tai Qi Zheng. I am a computer science student. This is my [Potfolio](https://qztai.github.io/Potfolio/)
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learning</h2>
 <p align="left">
