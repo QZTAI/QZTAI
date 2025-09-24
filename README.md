@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Tai Qi Zheng. I am a computer science student.
+My name is Tai Qi Zheng. I am a computer science student. This is my <a herf="https://qztai.github.io/Potfolio/">potfolio</a>
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learning</h2>
 <p align="left">
