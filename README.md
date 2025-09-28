@@ -2,7 +2,7 @@
 
 My name is Tai Qi Zheng. I am a computer science student. This is my [Potfolio](https://qztai.github.io/Potfolio/)
 </br>
-[![📄Resume]](./Resume.pdf)
+[![📄Resume]](Icon/cv.jpg)(./Resume.pdf)
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learning</h2>
 <p align="left">
   <img src="Icon/python-original-wordmark.svg" width="45" height="45"/>
