@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Tai Qi Zheng. I am a computer science student. This is my [Potfolio](https://qztai.github.io/Potfolio/)
+My name is Tai Qi Zheng. I am a computer science student. <!--This is my [Potfolio](https://qztai.github.io/Potfolio/)-->
 </br>
 <a href="./Resume.pdf" target="_blank">📄 View My Resume</a>
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learning</h2>
